@@ -53,6 +53,17 @@ The app uses **Redux Toolkit** for state management and follows a clean, modular
 
 ---
 
+## Demo & APK
+
+The demo video and Android APK for this assignment are available in the GitHub Releases section.
+
+- **APK (Android release build):**
+
+- **Demo Video:**  
+  Included in the same release for a walkthrough of the app flow and features.
+
+---
+
 ## 🚀 How to Run
 
 ```bash
