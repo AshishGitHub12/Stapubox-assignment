@@ -55,12 +55,13 @@ The app uses **Redux Toolkit** for state management and follows a clean, modular
 
 ## Demo & APK
 
-The demo video and Android APK for this assignment are available in the GitHub Releases section.
+The Android APK and demo video for this assignment are available at the link below:
 
-- **APK (Android release build):**
+- 🔗 **Release Page (APK + Demo Video):** 
+https://github.com/AshishGitHub12/Stapubox-assignment/releases/tag/v1.0.0
 
-- **Demo Video:**  
-  Included in the same release for a walkthrough of the app flow and features.
+- **APK:** Available in the release assets  
+- **Demo Video:** Available in the same release
 
 ---
 
